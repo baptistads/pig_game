@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/baptistads/pigGame",
+  "homepage": "https://github.com/baptistads/pig_game",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
